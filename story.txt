@@ -1,3 +1,4 @@
 This is just a story 
 Story about VS code and git hub
+Adding new story ending
 Adding new character in add character branch and ending story
